@@ -1,5 +1,6 @@
 <h1 align="center">Hello Everyone 👋</h1>
 
+<div align="center">
   <img src="https://aniyuki.com/wp-content/uploads/2022/08/aniyuki-hello-29.gif" align="center" allowFullScreen>
 </div>
 
